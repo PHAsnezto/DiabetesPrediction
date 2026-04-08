@@ -89,3 +89,4 @@ if st.button('🚀 Phân tích kết quả'):
         st.table(comparison_df)
 
 st.info("💡 Lưu ý: Đây là hệ thống tham chiếu dựa trên thuật toán, kết quả chỉ mang tính chất tham khảo, không thay thế chẩn đoán của bác sĩ.")
+##muhehehehe
